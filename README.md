@@ -259,7 +259,7 @@ const CONFIG = {
   ownerPassword: "잡다1230",
   remoteSwitchUrl: "https://gist.github.com/jimnny1230/6ba04dfa9994f80615e6498cbfedcc43.js",
 
-  gistId: "cae57f03a2bde77a8217f4d5855a19df",              // 예: "1a2b3c4d5e6f7g8h9i0j"
+  gistId: "cae57f03a2bde77a8217f4d5855a19df.js",              // 예: "1a2b3c4d5e6f7g8h9i0j"
   gistFilename: "posts.json",
 
   fallbackPosts: [
